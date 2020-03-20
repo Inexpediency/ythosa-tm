@@ -3,4 +3,4 @@
 
 Can create and delete tasks
 
-## Run <main> and print </help> to learn more
+## Run < main > and print < /help > to learn more
