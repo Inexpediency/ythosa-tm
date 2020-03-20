@@ -1,6 +1,6 @@
 # TaskManager
-##Сompact console task manager
+## Compact console task manager
 
 Can create and delete tasks
 
-##Run main and print < /help > to learn more
+## Run main and print < /help > to learn more
