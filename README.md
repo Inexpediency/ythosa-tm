@@ -13,5 +13,5 @@
 
 # Install
 -   download [C++ compiler](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/)
--   clone this repo: `git clone https://github.com/Ythosa/TaskManager`
+-   clone this repo: `git clone https://github.com/Ythosa/ythosatm`
 -   run: `main.cpp`
