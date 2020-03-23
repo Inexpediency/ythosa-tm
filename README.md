@@ -12,6 +12,6 @@
 </div>
 
 # Install
--   download [c++ compiler](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/)
+-   download [C++ compiler](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/)
 -   clone this repo: `git clone https://github.com/Ythosa/TaskManager`
 -   run: `main.cpp`
