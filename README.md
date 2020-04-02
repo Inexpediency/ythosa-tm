@@ -12,9 +12,9 @@
 </div>
 
 # Install
--   download [C++ compiler](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/)
--   clone this repo: `git clone https://github.com/Ythosa/ythosatm`
--   run: `main.cpp`
+-   Download [C++ Compiler](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/)
+-   Clone this repo: `git clone https://github.com/Ythosa/ythosatm`
+-   Run: `main.cpp`
 
 ---
 
